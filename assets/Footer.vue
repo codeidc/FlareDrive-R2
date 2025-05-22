@@ -34,7 +34,7 @@ export default {
       homeUrl: "https://www.codeidc.com/",
       blogUrl: "https://tv.361181.com/",
       githubUrl: "https://github.com/codeidc",
-      emailUrl: "codeidc@gmail.com"
+      emailUrl: "#codeidc@gmail.com"
     };
   }
 };
