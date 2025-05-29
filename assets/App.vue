@@ -17,7 +17,7 @@
     </button>
     <div class="app-bar">
       <a class="app-title-container" style="display: flex; align-items: center;" href="/">
-        <img src="/assets/homescreen.png" alt="FlareDrive" style="height: 24px" />
+        <img src="/assets/clouddrive.png" alt="FlareDrive" style="height: 24px" />
         <h1 class="app-title" style="font-size: 15px;margin: 0 25px 0 8px; user-select: none;">景岄网盘</h1>
       </a>
 
